@@ -19,6 +19,8 @@ public class NumericalCalculator {
    */
   public static int countNumbersInList(ArrayList<Integer> numberList) {
     // TODO: Add an implementation for this method
+    int sizeOfNumberList = 0;
+    return sizeOfNumberList;
   }
 
   /**
@@ -37,6 +39,8 @@ public class NumericalCalculator {
    */
   public static int findMinimumValue(ArrayList<Integer> numberList) {
     // TODO: Add an implementation for this method
+    int minimum = 0;
+    return minimum;
   }
 
   /**
@@ -46,6 +50,8 @@ public class NumericalCalculator {
    */
   public static int findMaximumValue(ArrayList<Integer> numberList) {
     // TODO: Add an implementation for this method
+    int maximum = 0;
+    return maximum;
   }
 
   /**
@@ -60,7 +66,6 @@ public class NumericalCalculator {
     while (numberListIterator.hasNext()) {
 
     }
-
     return arithmeticMean;
   }
 
