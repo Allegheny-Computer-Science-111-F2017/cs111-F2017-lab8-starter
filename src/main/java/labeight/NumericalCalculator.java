@@ -12,22 +12,12 @@ import java.util.Iterator;
  */
 public class NumericalCalculator {
 
-  /**
-   * Count the number of items in a list of numbers.
-   *
-   * @author Gregory M. Kapfhammer
-   */
   public static int countNumbersInList(ArrayList<Integer> numberList) {
     // TODO: Add an implementation for this method
     int sizeOfNumberList = 0;
     return sizeOfNumberList;
   }
 
-  /**
-   * Display an entire list provided as an argument.
-   *
-   * @author Gregory M. Kapfhammer
-   */
   public static void displayNumberList(ArrayList<Integer> numberList) {
     // TODO: Add an implementation for this method
   }
